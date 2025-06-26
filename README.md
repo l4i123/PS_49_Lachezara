@@ -34,10 +34,15 @@ Seed данни	Начално зареждане на потребители
 WPF / XAML (UI)
 Елемент	Описание
 WPF + XAML	Графичен интерфейс с DataGrid и бутони
+
 UserControl	StudentList.xaml за многократна употреба
+
 Data Binding	Binding="{Binding Property}" в DataGrid
+
 Converters	PasswordHiderConverter за скриване на пароли
+
 Event handling (Click)	Бутони за изчисления като средна възраст
+
 MVVM основа	UI слой започва да следва MVVM философията
 
 NuGet пакети	Microsoft.EntityFrameworkCore.Sqlite
