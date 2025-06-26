@@ -1,0 +1,473 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\C#\\PS_29_Lachezara\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62B38C7B-7371-4921-9472-95873FAFE2E6}|UI\\UI.csproj|d:\\documents\\c#\\ps_29_lachezara\\ui\\components\\studentlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B38C7B-7371-4921-9472-95873FAFE2E6}|UI\\UI.csproj|solutionrelative:ui\\components\\studentlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691FBC4D-A422-43C5-96FB-83FE0C7B17CF}|DataLayer\\DataLayer.csproj|d:\\documents\\c#\\ps_29_lachezara\\datalayer\\model\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691FBC4D-A422-43C5-96FB-83FE0C7B17CF}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\model\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691FBC4D-A422-43C5-96FB-83FE0C7B17CF}|DataLayer\\DataLayer.csproj|d:\\documents\\c#\\ps_29_lachezara\\datalayer\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691FBC4D-A422-43C5-96FB-83FE0C7B17CF}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B38C7B-7371-4921-9472-95873FAFE2E6}|UI\\UI.csproj|d:\\documents\\c#\\ps_29_lachezara\\ui\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B38C7B-7371-4921-9472-95873FAFE2E6}|UI\\UI.csproj|solutionrelative:ui\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B38C7B-7371-4921-9472-95873FAFE2E6}|UI\\UI.csproj|d:\\documents\\c#\\ps_29_lachezara\\ui\\components\\studentlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{62B38C7B-7371-4921-9472-95873FAFE2E6}|UI\\UI.csproj|solutionrelative:ui\\components\\studentlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D45A62D-F31F-81B4-0009-E3EDCFB26288}|WelcomeExtended\\WelcomeExtended.csproj|d:\\documents\\c#\\ps_29_lachezara\\welcomeextended\\welcomeextended.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D45A62D-F31F-81B4-0009-E3EDCFB26288}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\welcomeextended.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B081D295-A914-4815-AF78-CF831731F4B1}|Welcome\\Welcome.csproj|d:\\documents\\c#\\ps_29_lachezara\\welcome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B081D295-A914-4815-AF78-CF831731F4B1}|Welcome\\Welcome.csproj|solutionrelative:welcome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B081D295-A914-4815-AF78-CF831731F4B1}|Welcome\\Welcome.csproj|d:\\documents\\c#\\ps_29_lachezara\\welcome\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B081D295-A914-4815-AF78-CF831731F4B1}|Welcome\\Welcome.csproj|solutionrelative:welcome\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B081D295-A914-4815-AF78-CF831731F4B1}|Welcome\\Welcome.csproj|d:\\documents\\c#\\ps_29_lachezara\\welcome\\view\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B081D295-A914-4815-AF78-CF831731F4B1}|Welcome\\Welcome.csproj|solutionrelative:welcome\\view\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B081D295-A914-4815-AF78-CF831731F4B1}|Welcome\\Welcome.csproj|d:\\documents\\c#\\ps_29_lachezara\\welcome\\others\\userrolesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B081D295-A914-4815-AF78-CF831731F4B1}|Welcome\\Welcome.csproj|solutionrelative:welcome\\others\\userrolesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B081D295-A914-4815-AF78-CF831731F4B1}|Welcome\\Welcome.csproj|d:\\documents\\c#\\ps_29_lachezara\\welcome\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B081D295-A914-4815-AF78-CF831731F4B1}|Welcome\\Welcome.csproj|solutionrelative:welcome\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B38C7B-7371-4921-9472-95873FAFE2E6}|UI\\UI.csproj|d:\\documents\\c#\\ps_29_lachezara\\ui\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B38C7B-7371-4921-9472-95873FAFE2E6}|UI\\UI.csproj|solutionrelative:ui\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B38C7B-7371-4921-9472-95873FAFE2E6}|UI\\UI.csproj|d:\\documents\\c#\\ps_29_lachezara\\ui\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{62B38C7B-7371-4921-9472-95873FAFE2E6}|UI\\UI.csproj|solutionrelative:ui\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B38C7B-7371-4921-9472-95873FAFE2E6}|UI\\UI.csproj|d:\\documents\\c#\\ps_29_lachezara\\ui\\converters\\passwordhiderconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B38C7B-7371-4921-9472-95873FAFE2E6}|UI\\UI.csproj|solutionrelative:ui\\converters\\passwordhiderconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691FBC4D-A422-43C5-96FB-83FE0C7B17CF}|DataLayer\\DataLayer.csproj|d:\\documents\\c#\\ps_29_lachezara\\datalayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691FBC4D-A422-43C5-96FB-83FE0C7B17CF}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691FBC4D-A422-43C5-96FB-83FE0C7B17CF}|DataLayer\\DataLayer.csproj|d:\\documents\\c#\\ps_29_lachezara\\datalayer\\model\\databaseuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691FBC4D-A422-43C5-96FB-83FE0C7B17CF}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\model\\databaseuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D45A62D-F31F-81B4-0009-E3EDCFB26288}|WelcomeExtended\\WelcomeExtended.csproj|d:\\documents\\c#\\ps_29_lachezara\\welcomeextended\\loggers\\loggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D45A62D-F31F-81B4-0009-E3EDCFB26288}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\loggers\\loggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D45A62D-F31F-81B4-0009-E3EDCFB26288}|WelcomeExtended\\WelcomeExtended.csproj|d:\\documents\\c#\\ps_29_lachezara\\welcomeextended\\loggers\\hashloggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D45A62D-F31F-81B4-0009-E3EDCFB26288}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\loggers\\hashloggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D45A62D-F31F-81B4-0009-E3EDCFB26288}|WelcomeExtended\\WelcomeExtended.csproj|d:\\documents\\c#\\ps_29_lachezara\\welcomeextended\\helpers\\loggerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D45A62D-F31F-81B4-0009-E3EDCFB26288}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\helpers\\loggerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B38C7B-7371-4921-9472-95873FAFE2E6}|UI\\UI.csproj|d:\\documents\\c#\\ps_29_lachezara\\ui\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62B38C7B-7371-4921-9472-95873FAFE2E6}|UI\\UI.csproj|solutionrelative:ui\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D45A62D-F31F-81B4-0009-E3EDCFB26288}|WelcomeExtended\\WelcomeExtended.csproj|d:\\documents\\c#\\ps_29_lachezara\\welcomeextended\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D45A62D-F31F-81B4-0009-E3EDCFB26288}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B38C7B-7371-4921-9472-95873FAFE2E6}|UI\\UI.csproj|d:\\documents\\c#\\ps_29_lachezara\\ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{62B38C7B-7371-4921-9472-95873FAFE2E6}|UI\\UI.csproj|solutionrelative:ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691FBC4D-A422-43C5-96FB-83FE0C7B17CF}|DataLayer\\DataLayer.csproj|d:\\documents\\c#\\ps_29_lachezara\\datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{691FBC4D-A422-43C5-96FB-83FE0C7B17CF}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B081D295-A914-4815-AF78-CF831731F4B1}|Welcome\\Welcome.csproj|d:\\documents\\c#\\ps_29_lachezara\\welcome\\welcome.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B081D295-A914-4815-AF78-CF831731F4B1}|Welcome\\Welcome.csproj|solutionrelative:welcome\\welcome.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D45A62D-F31F-81B4-0009-E3EDCFB26288}|WelcomeExtended\\WelcomeExtended.csproj|d:\\documents\\c#\\ps_29_lachezara\\welcomeextended\\helpers\\userhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D45A62D-F31F-81B4-0009-E3EDCFB26288}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\helpers\\userhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D45A62D-F31F-81B4-0009-E3EDCFB26288}|WelcomeExtended\\WelcomeExtended.csproj|d:\\documents\\c#\\ps_29_lachezara\\welcomeextended\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D45A62D-F31F-81B4-0009-E3EDCFB26288}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D45A62D-F31F-81B4-0009-E3EDCFB26288}|WelcomeExtended\\WelcomeExtended.csproj|d:\\documents\\c#\\ps_29_lachezara\\welcomeextended\\others\\delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D45A62D-F31F-81B4-0009-E3EDCFB26288}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\others\\delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D45A62D-F31F-81B4-0009-E3EDCFB26288}|WelcomeExtended\\WelcomeExtended.csproj|d:\\documents\\c#\\ps_29_lachezara\\welcomeextended\\others\\delegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D45A62D-F31F-81B4-0009-E3EDCFB26288}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\others\\delegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\C#\\PS_29_Lachezara\\Welcome\\Program.cs",
+              "RelativeDocumentMoniker": "Welcome\\Program.cs",
+              "ToolTip": "D:\\Documents\\C#\\PS_29_Lachezara\\Welcome\\Program.cs",
+              "RelativeToolTip": "Welcome\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:01:28.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WelcomeExtended.csproj",
+              "DocumentMoniker": "D:\\Documents\\C#\\PS_29_Lachezara\\WelcomeExtended\\WelcomeExtended.csproj",
+              "RelativeDocumentMoniker": "WelcomeExtended\\WelcomeExtended.csproj",
+              "ToolTip": "D:\\Documents\\C#\\PS_29_Lachezara\\WelcomeExtended\\WelcomeExtended.csproj",
+              "RelativeToolTip": "WelcomeExtended\\WelcomeExtended.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-20T16:28:36.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentList.xaml.cs",
+              "DocumentMoniker": "D:\\Documents\\C#\\PS_29_Lachezara\\UI\\Components\\StudentList.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\Components\\StudentList.xaml.cs",
+              "ToolTip": "D:\\Documents\\C#\\PS_29_Lachezara\\UI\\Components\\StudentList.xaml.cs",
+              "RelativeToolTip": "UI\\Components\\StudentList.xaml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAvwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T14:30:45.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentList.xaml",
+              "DocumentMoniker": "D:\\Documents\\C#\\PS_29_Lachezara\\UI\\Components\\StudentList.xaml",
+              "RelativeDocumentMoniker": "UI\\Components\\StudentList.xaml",
+              "ToolTip": "D:\\Documents\\C#\\PS_29_Lachezara\\UI\\Components\\StudentList.xaml",
+              "RelativeToolTip": "UI\\Components\\StudentList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-18T14:20:54.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRolesEnum.cs",
+              "DocumentMoniker": "D:\\Documents\\C#\\PS_29_Lachezara\\Welcome\\Others\\UserRolesEnum.cs",
+              "RelativeDocumentMoniker": "Welcome\\Others\\UserRolesEnum.cs",
+              "ToolTip": "D:\\Documents\\C#\\PS_29_Lachezara\\Welcome\\Others\\UserRolesEnum.cs",
+              "RelativeToolTip": "Welcome\\Others\\UserRolesEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:22:50.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Documents\\C#\\PS_29_Lachezara\\UI\\Windows\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\Windows\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Documents\\C#\\PS_29_Lachezara\\UI\\Windows\\MainWindow.xaml.cs",
+              "RelativeToolTip": "UI\\Windows\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T14:15:55.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "D:\\Documents\\C#\\PS_29_Lachezara\\DataLayer\\Database\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Database\\DatabaseContext.cs",
+              "ToolTip": "D:\\Documents\\C#\\PS_29_Lachezara\\DataLayer\\Database\\DatabaseContext.cs",
+              "RelativeToolTip": "DataLayer\\Database\\DatabaseContext.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:34:06.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Log.cs",
+              "DocumentMoniker": "D:\\Documents\\C#\\PS_29_Lachezara\\DataLayer\\Model\\Log.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Model\\Log.cs",
+              "ToolTip": "D:\\Documents\\C#\\PS_29_Lachezara\\DataLayer\\Model\\Log.cs",
+              "RelativeToolTip": "DataLayer\\Model\\Log.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:52:10.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "D:\\Documents\\C#\\PS_29_Lachezara\\Welcome\\ViewModel\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "Welcome\\ViewModel\\UserViewModel.cs",
+              "ToolTip": "D:\\Documents\\C#\\PS_29_Lachezara\\Welcome\\ViewModel\\UserViewModel.cs",
+              "RelativeToolTip": "Welcome\\ViewModel\\UserViewModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:16:31.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserView.cs",
+              "DocumentMoniker": "D:\\Documents\\C#\\PS_29_Lachezara\\Welcome\\View\\UserView.cs",
+              "RelativeDocumentMoniker": "Welcome\\View\\UserView.cs",
+              "ToolTip": "D:\\Documents\\C#\\PS_29_Lachezara\\Welcome\\View\\UserView.cs",
+              "RelativeToolTip": "Welcome\\View\\UserView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:10:04.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Documents\\C#\\PS_29_Lachezara\\Welcome\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Welcome\\Model\\User.cs",
+              "ToolTip": "D:\\Documents\\C#\\PS_29_Lachezara\\Welcome\\Model\\User.cs",
+              "RelativeToolTip": "Welcome\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:25:21.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Documents\\C#\\PS_29_Lachezara\\UI\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "UI\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Documents\\C#\\PS_29_Lachezara\\UI\\AssemblyInfo.cs",
+              "RelativeToolTip": "UI\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:58:57.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Documents\\C#\\PS_29_Lachezara\\UI\\Windows\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "UI\\Windows\\MainWindow.xaml",
+              "ToolTip": "D:\\Documents\\C#\\PS_29_Lachezara\\UI\\Windows\\MainWindow.xaml",
+              "RelativeToolTip": "UI\\Windows\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-18T14:16:00.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PasswordHiderConverter.cs",
+              "DocumentMoniker": "D:\\Documents\\C#\\PS_29_Lachezara\\UI\\Converters\\PasswordHiderConverter.cs",
+              "RelativeDocumentMoniker": "UI\\Converters\\PasswordHiderConverter.cs",
+              "ToolTip": "D:\\Documents\\C#\\PS_29_Lachezara\\UI\\Converters\\PasswordHiderConverter.cs",
+              "RelativeToolTip": "UI\\Converters\\PasswordHiderConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:27:35.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\C#\\PS_29_Lachezara\\DataLayer\\Program.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Program.cs",
+              "ToolTip": "D:\\Documents\\C#\\PS_29_Lachezara\\DataLayer\\Program.cs",
+              "RelativeToolTip": "DataLayer\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:58:52.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DatabaseUser.cs",
+              "DocumentMoniker": "D:\\Documents\\C#\\PS_29_Lachezara\\DataLayer\\Model\\DatabaseUser.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Model\\DatabaseUser.cs",
+              "ToolTip": "D:\\Documents\\C#\\PS_29_Lachezara\\DataLayer\\Model\\DatabaseUser.cs",
+              "RelativeToolTip": "DataLayer\\Model\\DatabaseUser.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:22:18.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoggerProvider.cs",
+              "DocumentMoniker": "D:\\Documents\\C#\\PS_29_Lachezara\\WelcomeExtended\\Loggers\\LoggerProvider.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Loggers\\LoggerProvider.cs",
+              "ToolTip": "D:\\Documents\\C#\\PS_29_Lachezara\\WelcomeExtended\\Loggers\\LoggerProvider.cs",
+              "RelativeToolTip": "WelcomeExtended\\Loggers\\LoggerProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:30:39.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HashLoggers.cs",
+              "DocumentMoniker": "D:\\Documents\\C#\\PS_29_Lachezara\\WelcomeExtended\\Loggers\\HashLoggers.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Loggers\\HashLoggers.cs",
+              "ToolTip": "D:\\Documents\\C#\\PS_29_Lachezara\\WelcomeExtended\\Loggers\\HashLoggers.cs",
+              "RelativeToolTip": "WelcomeExtended\\Loggers\\HashLoggers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:39:53.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoggerHelper.cs",
+              "DocumentMoniker": "D:\\Documents\\C#\\PS_29_Lachezara\\WelcomeExtended\\Helpers\\LoggerHelper.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Helpers\\LoggerHelper.cs",
+              "ToolTip": "D:\\Documents\\C#\\PS_29_Lachezara\\WelcomeExtended\\Helpers\\LoggerHelper.cs",
+              "RelativeToolTip": "WelcomeExtended\\Helpers\\LoggerHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:09:40.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UI.csproj",
+              "DocumentMoniker": "D:\\Documents\\C#\\PS_29_Lachezara\\UI\\UI.csproj",
+              "RelativeDocumentMoniker": "UI\\UI.csproj",
+              "ToolTip": "D:\\Documents\\C#\\PS_29_Lachezara\\UI\\UI.csproj",
+              "RelativeToolTip": "UI\\UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-18T14:16:50.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "D:\\Documents\\C#\\PS_29_Lachezara\\WelcomeExtended\\Data\\UserData.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Data\\UserData.cs",
+              "ToolTip": "D:\\Documents\\C#\\PS_29_Lachezara\\WelcomeExtended\\Data\\UserData.cs",
+              "RelativeToolTip": "WelcomeExtended\\Data\\UserData.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAE0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T21:06:33.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Documents\\C#\\PS_29_Lachezara\\UI\\App.xaml",
+              "RelativeDocumentMoniker": "UI\\App.xaml",
+              "ToolTip": "D:\\Documents\\C#\\PS_29_Lachezara\\UI\\App.xaml",
+              "RelativeToolTip": "UI\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-18T14:18:19.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserHelper.cs",
+              "DocumentMoniker": "D:\\Documents\\C#\\PS_29_Lachezara\\WelcomeExtended\\Helpers\\UserHelper.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Helpers\\UserHelper.cs",
+              "ToolTip": "D:\\Documents\\C#\\PS_29_Lachezara\\WelcomeExtended\\Helpers\\UserHelper.cs",
+              "RelativeToolTip": "WelcomeExtended\\Helpers\\UserHelper.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:59:54.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Welcome.csproj",
+              "DocumentMoniker": "D:\\Documents\\C#\\PS_29_Lachezara\\Welcome\\Welcome.csproj",
+              "RelativeDocumentMoniker": "Welcome\\Welcome.csproj",
+              "ToolTip": "D:\\Documents\\C#\\PS_29_Lachezara\\Welcome\\Welcome.csproj",
+              "RelativeToolTip": "Welcome\\Welcome.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-19T12:04:12.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DataLayer.csproj",
+              "DocumentMoniker": "D:\\Documents\\C#\\PS_29_Lachezara\\DataLayer\\DataLayer.csproj",
+              "RelativeDocumentMoniker": "DataLayer\\DataLayer.csproj",
+              "ToolTip": "D:\\Documents\\C#\\PS_29_Lachezara\\DataLayer\\DataLayer.csproj",
+              "RelativeToolTip": "DataLayer\\DataLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T09:59:56.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "delegate.cs",
+              "DocumentMoniker": "D:\\Documents\\C#\\PS_29_Lachezara\\WelcomeExtended\\Others\\delegate.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Others\\delegate.cs",
+              "ToolTip": "D:\\Documents\\C#\\PS_29_Lachezara\\WelcomeExtended\\Others\\delegate.cs",
+              "RelativeToolTip": "WelcomeExtended\\Others\\delegate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:09:44.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\C#\\PS_29_Lachezara\\WelcomeExtended\\Program.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Program.cs",
+              "ToolTip": "D:\\Documents\\C#\\PS_29_Lachezara\\WelcomeExtended\\Program.cs",
+              "RelativeToolTip": "WelcomeExtended\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:27:20.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delegates.cs",
+              "DocumentMoniker": "D:\\Documents\\C#\\PS_29_Lachezara\\WelcomeExtended\\Others\\Delegates.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Others\\Delegates.cs",
+              "ToolTip": "D:\\Documents\\C#\\PS_29_Lachezara\\WelcomeExtended\\Others\\Delegates.cs",
+              "RelativeToolTip": "WelcomeExtended\\Others\\Delegates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:31:08.356Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

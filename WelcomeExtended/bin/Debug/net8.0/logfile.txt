@@ -1,0 +1,65 @@
+[20.4.2025 г. 20:00:57] [Error] [Hello] Event ID: 0 - The method or operation is not implemented.
+[20.4.2025 г. 20:01:31] [Error] [Hello] Event ID: 0 - The method or operation is not implemented.
+[20.4.2025 г. 20:03:03] [Error] [Hello] Event ID: 0 - The method or operation is not implemented.
+[20.4.2025 г. 20:03:24] [Error] [Hello] Event ID: 0 - The method or operation is not implemented.
+[20.4.2025 г. 20:04:36] [Error] [Hello] Event ID: 0 - The method or operation is not implemented.
+[Error] [Hello] The method or operation is not implemented.
+[Information] [MyLogger] Information message
+[Error] [MyLogger] Error message
+[Error] [Hello] The method or operation is not implemented.
+[Information] [MyLogger] Information message
+[Error] [MyLogger] Error message
+[Error] [Hello] The method or operation is not implemented.
+[Information] [MyLogger] Information message
+[Error] [MyLogger] Error message
+[Error] [Hello] The method or operation is not implemented.
+[Information] [MyLogger] Information message
+[Error] [MyLogger] Error message
+[Error] [Hello] The method or operation is not implemented.
+[Information] [MyLogger] Information message
+[Error] [MyLogger] Error message
+[Error] [Hello] The method or operation is not implemented.
+[Information] [MyLogger] Information message
+[Error] [MyLogger] Error message
+[Error] [Hello] The method or operation is not implemented.
+[Information] [MyLogger] Information message
+[Error] [MyLogger] Error message
+[Error] [Hello] The method or operation is not implemented.
+[Information] [MyLogger] Information message
+[Error] [MyLogger] Error message
+[Error] [Hello] The method or operation is not implemented.
+[Information] [MyLogger] Information message
+[Error] [MyLogger] Error message
+[Error] [Hello] The method or operation is not implemented.
+[Information] [MyLogger] Information message
+[Error] [MyLogger] Error message
+[Error] [Hello] The method or operation is not implemented.
+[Information] [MyLogger] Information message
+[Error] [MyLogger] Error message
+[Error] [Hello] The method or operation is not implemented.
+[Information] [MyLogger] Information message
+[Error] [MyLogger] Error message
+[Error] [Hello] The method or operation is not implemented.
+[Information] [MyLogger] Information message
+[Error] [MyLogger] Error message
+[Error] [Hello] The method or operation is not implemented.
+[Information] [MyLogger] Information message
+[Error] [MyLogger] Error message
+[Error] [Hello] The method or operation is not implemented.
+[Information] [MyLogger] Information message
+[Error] [MyLogger] Error message
+[Error] [Hello] The method or operation is not implemented.
+[Information] [MyLogger] Information message
+[Error] [MyLogger] Error message
+[Error] [Hello] The method or operation is not implemented.
+[Information] [MyLogger] Information message
+[Error] [MyLogger] Error message
+[Error] [Hello] The method or operation is not implemented.
+[Information] [MyLogger] Information message
+[Error] [MyLogger] Error message
+[Error] [Hello] The method or operation is not implemented.
+[Information] [MyLogger] Information message
+[Error] [MyLogger] Error message
+[Error] [Hello] The method or operation is not implemented.
+[Information] [MyLogger] Information message
+[Error] [MyLogger] Error message

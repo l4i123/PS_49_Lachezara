@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "UI\\UI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Welcome\\Welcome.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WelcomeExtended\\WelcomeExtended.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DataLayer\\DataLayer.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
