@@ -49,4 +49,5 @@ Command line меню	В Program.cs на DataLayer за CRUD чрез Console.Re
 
 Концепции на ООП, енумерации, делегати и др.
 
+
 Връзка към Курсов Проект: https://tusofiabg-my.sharepoint.com/:w:/g/personal/llazarova_tu-sofia_bg/EQ6Q-HMRvctDhAr-ey1DrWoBUmH3eK4qL5H4K7MZqIx9lA?e=oPb3vH
