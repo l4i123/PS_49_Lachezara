@@ -49,7 +49,7 @@ Converters	PasswordHiderConverter за скриване на пароли
 
 Event handling (Click)	Бутони за изчисления като средна възраст
 
-MVVM основа	UI слой започва да следва MVVM философията
+MVVM основа	UI слой 
 
 NuGet пакети	Microsoft.EntityFrameworkCore.Sqlite
 
